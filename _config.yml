@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 人间戏场HUMAN THEATER
-description: 饿魔放映室HUNGRY EMO THEATER
+description: 饿魔放映室
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2023 来自饿魔放映室
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus:  #shortname
+disqus:  EMO #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: f5d957901686ab385bb5
-  clientSecret: 7a74a3034bb6bdfd04a4e74176bd732b99c50023
+  clientID: 
+  clientSecret: 
   repo: 
-  owner: Butit
+  owner: 
   proxy:
 
 # 输入Google Analytics web tracking code
