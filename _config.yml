@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2023 来自饿魔放映室
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: f5d957901686ab385bb5
+  clientSecret: 7a74a3034bb6bdfd04a4e74176bd732b99c50023
   repo: 
-  owner: 
+  owner: Butit
   proxy:
 
 # 输入Google Analytics web tracking code
