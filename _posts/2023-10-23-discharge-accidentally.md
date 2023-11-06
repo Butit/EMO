@@ -2,12 +2,13 @@
 layout: post
 title: 走火
 date: 2023-10-29
-Author: 飞人特FEIRENTE
+author: 飞人特
 categories: M/M
 tags: [光荣时代, 向阳, NC-17 UNPUBLISHED]
 comments: true
 --- 
 
+![8c23114dc24f5b851b104b97545ce7e8.png](https://i.mji.rip/2023/11/06/8c23114dc24f5b851b104b97545ce7e8.png)
 Summary：更老的时候，我们走在路上，风声在耳边响起，被20岁那年自己射出的子弹穿透胸膛。
 
 *“运气就像是枪里的子弹，有数的，你打一枪，它就少一发，一不留神就没了，省着点用啊。”*
