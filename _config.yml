@@ -24,7 +24,7 @@ baseurl: /EMO
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://i.mji.rip/2023/11/06/45d7231716ae2b9d13490498e5d289a6.png
+avatar: https://i.mji.rip/2023/11/06/220a437327bc2da1bd940bc6bdb6a99b.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://i.mji.rip/2023/11/06/41ab8d1b6cd69a17f1305e829afb14b8.png
@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2023 来自饿魔放映室
+footer-text: Copyright (c) 2023 HUNGRY EMO THEATER
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
