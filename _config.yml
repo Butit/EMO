@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 人间戏场HUMAN THEATER
-description: BY饿魔放映室
+description: 饿魔放映室
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -27,7 +27,7 @@ baseurl: /EMO
 avatar: https://i.mji.rip/2023/11/06/220a437327bc2da1bd940bc6bdb6a99b.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://i.mji.rip/2023/11/06/41ab8d1b6cd69a17f1305e829afb14b8.png
+favicon: https://i.mji.rip/2023/11/17/f917363f30c9b14a19d9a3785ad45619.png
 
 
 # 菜单中的按钮
