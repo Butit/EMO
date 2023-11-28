@@ -4,7 +4,7 @@ title: 横祸
 date: 2023-11-19
 author: 俗
 categories: M/M
-tags: [AU, 烈译, 王烈, 张译, 双性, 养父, 包养, NC17-UNPUBLISHED]
+tags: [烈译, 王烈, 张译, 双性, 养父, 包养, AU, NC17-UNPUBLISHED]
 comments: true
 --- 
 
