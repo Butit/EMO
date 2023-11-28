@@ -4,7 +4,7 @@ title: 暗里着迷
 date: 2023-11-02
 author: 痣
 categories: M/M
-tags: [AU, 烈译, 王烈, 少年, 张建宇, 后记, ALL AGES-UNPUBLISHED]
+tags: [少年, 烈译, 王烈, 张建宇, 后记, AU, ALL AGES-UNPUBLISHED]
 comments: true
 --- 
 
